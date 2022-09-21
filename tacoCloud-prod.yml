@@ -1,0 +1,10 @@
+server:
+  port: 0
+eureka:
+  client:
+    server-url:
+      defaultZone: http://localhost:8761/eureka, http://localhost:9999/hello/eureka
+custom:
+  my:
+    label:
+      hello,world
