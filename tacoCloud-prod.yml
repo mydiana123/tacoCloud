@@ -8,3 +8,6 @@ custom:
   my:
     label:
       hello,world
+
+greeting:
+  name: wangLin
